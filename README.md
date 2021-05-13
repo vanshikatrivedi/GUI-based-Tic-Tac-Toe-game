@@ -6,7 +6,7 @@
 
 ## Some screenshots
 <p align="center">
-    <img src="ss/demo.png"  width="800" alt="Tic-Tac-Toe GUI">
+    <img src=""  width="800" alt="Tic-Tac-Toe GUI">
 </p>
 
 ### :heart: Found this project useful?
