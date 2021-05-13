@@ -2,7 +2,7 @@
 
 -- a leisure project
 
-### Show some :heart: and star the repo.
+### Show some :heart: and :star: the repo.
 
 ## Some screenshots
 <p align="center">
@@ -10,5 +10,4 @@
 </p>
 
 ### :heart: Found this project useful?
-
 If you found this project useful, then please consider giving it a :star: on Github
